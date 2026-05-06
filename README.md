@@ -10,15 +10,16 @@ My interest in cybersecurity grew from a curiosity about how systems work — an
 
 I recently completed the **National Cyber League (NCL)** Capture the Flag competition, a structured cybersecurity challenge platform that tests skills across a wide range of domains. The experience pushed me to think critically, work methodically, and adapt quickly under pressure.
 
-### 📊 Performance Overview — NCL Spring 2026
+###  Performance Overview — NCL Spring 2026
 
 Each game format covers the same core categories: OSINT, Cryptography, Password Cracking, Forensics, Log Analysis, Network Traffic Analysis, Scanning & Reconnaissance, Web Application Exploitation, Wireless Access Exploitation, and Enumeration & Exploitation.
 
 <img width="1069" height="298" alt="image" src="https://github.com/user-attachments/assets/33a01d69-3c49-4182-a052-4c75b9708996" />
 
 
-> 📎 *My NCL Scouting Reports (Individual & Team) are available upon request or via shared link.*
-
+## My NCL Scouting Reports
+ See the attached links for my scouting reports.
+ Link:
 ---
 
 ## CTF Highlights & Reflections
