@@ -20,6 +20,7 @@ Each game format covers the same core categories: OSINT, Cryptography, Password 
 ## **My NCL Scouting Reports**
 
  --link
+ https://drive.google.com/file/d/1hOnXGJRDFjSD7XrRNBnEQ3--ZGUVGTTJ/view?usp=sharing
 ---
 
 ## CTF Highlights & Reflections
